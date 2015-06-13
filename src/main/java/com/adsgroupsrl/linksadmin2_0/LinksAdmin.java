@@ -36,7 +36,7 @@ public class LinksAdmin extends javax.swing.JFrame {
      * Creates new form LinksAdmin
      */
     public LinksAdmin() {
-        System.out.print(getClass().getResource("/com/adsgroupsrl/linksadmin2_0/imagenes/Presentation_chart_graph_an.png"));
+        System.out.print(getClass().getResource("imagenes/Presentation_chart_graph_an.png"));
         initComponents();
         script.setLineWrap(true);
         script.setWrapStyleWord(true);
