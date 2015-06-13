@@ -12,7 +12,7 @@ package com.adsgroupsrl.linksadmin2_0.servicio;
 
 import com.adsgroupsrl.linksadmin2_0.modelo.Buscar;
 import com.adsgroupsrl.linksadmin2_0.modelo.Subir;
-import com.adsgroupsrl.linksadmin2_0.LinksAdmin;
+import com.adsgroupsrl.linksadmin2_0.vista.LinksAdmin;
 import java.sql.SQLException;
 import java.util.ArrayList;
 

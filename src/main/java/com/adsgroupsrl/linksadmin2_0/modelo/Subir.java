@@ -5,7 +5,7 @@
  */
 package com.adsgroupsrl.linksadmin2_0.modelo;
 
-import com.adsgroupsrl.linksadmin2_0.LinksAdmin;
+import com.adsgroupsrl.linksadmin2_0.vista.LinksAdmin;
 import com.toedter.calendar.JDateChooser;
 import java.awt.HeadlessException;
 import java.sql.PreparedStatement;

@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package com.adsgroupsrl.linksadmin2_0;
+package com.adsgroupsrl.linksadmin2_0.vista;
 
 import com.adsgroupsrl.linksadmin2_0.modelo.Buscar;
 import com.adsgroupsrl.linksadmin2_0.modelo.Subir;
