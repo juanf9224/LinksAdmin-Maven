@@ -15,10 +15,10 @@ import javax.swing.JOptionPane;
 
 public class Conexion {
 
-    public String db = "linksadmin";
-    public String url = "jdbc:mysql://localhost/"+ db;
-    public String user = "root";
-    public String pass = "root";
+    public String db = "linksadmin01";
+    public String url = "jdbc:mysql://db4free.net/"+ db;
+    public String user = "jbggroupsrl";
+    public String pass = "mob.BGJ.123";
     public final String success = "Conexion exitosa a la BD! :)";
     public final String failure = "No se ha podido conectar a la BD! Error: ";
 
