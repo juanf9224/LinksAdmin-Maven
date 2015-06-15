@@ -5,14 +5,10 @@
  */
 package com.adsgroupsrl.linksadmin2_0.modelo;
 
-import com.adsgroupsrl.linksadmin2_0.vista.LinksAdmin;
-import com.toedter.calendar.JDateChooser;
 import java.awt.HeadlessException;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
-import java.util.Date;
 import javax.swing.JOptionPane;
-import javax.swing.JTextField;
 
 /**
  *

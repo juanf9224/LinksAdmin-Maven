@@ -244,6 +244,8 @@ public class LinksAdmin extends javax.swing.JFrame {
 
         publisher.setModel(new javax.swing.DefaultComboBoxModel(new String[] { "N/A", "Manuel", "Harol", "Brayan", "Juan", "Brey", "Gaby" }));
 
+        fecha.setDateFormatString("yyyy-MM-dd");
+
         subirBtn.setText("Subir");
         subirBtn.setToolTipText("");
         subirBtn.addActionListener(new java.awt.event.ActionListener() {
