@@ -142,7 +142,7 @@ public class LinksAdmin extends javax.swing.JFrame {
 
         jLabel10.setText("Busqueda:");
 
-        findPublisher.setModel(new javax.swing.DefaultComboBoxModel(new String[] { "N/A", "Manuel", "Brayan", "Harol", "Brey", "Juan", "Gabriel" }));
+        findPublisher.setModel(new javax.swing.DefaultComboBoxModel(new String[] { "N/A", "Manuel", "Brayan", "Harol", "Kamil", "Brey", "Juan", "Gabriel" }));
 
         findLinks.setText("Buscar");
         findLinks.addActionListener(new java.awt.event.ActionListener() {
@@ -242,7 +242,7 @@ public class LinksAdmin extends javax.swing.JFrame {
         script.setRows(5);
         jScrollPane1.setViewportView(script);
 
-        publisher.setModel(new javax.swing.DefaultComboBoxModel(new String[] { "N/A", "Manuel", "Harol", "Brayan", "Juan", "Brey", "Gaby" }));
+        publisher.setModel(new javax.swing.DefaultComboBoxModel(new String[] { "N/A", "Manuel", "Harol", "Brayan", "Kamil", "Juan", "Brey", "Gaby" }));
 
         fecha.setDateFormatString("yyyy-MM-dd");
 

@@ -225,14 +225,15 @@
             <Component class="javax.swing.JComboBox" name="findPublisher">
               <Properties>
                 <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
-                  <StringArray count="7">
+                  <StringArray count="8">
                     <StringItem index="0" value="N/A"/>
                     <StringItem index="1" value="Manuel"/>
                     <StringItem index="2" value="Brayan"/>
                     <StringItem index="3" value="Harol"/>
-                    <StringItem index="4" value="Brey"/>
-                    <StringItem index="5" value="Juan"/>
-                    <StringItem index="6" value="Gabriel"/>
+                    <StringItem index="4" value="Kamil"/>
+                    <StringItem index="5" value="Brey"/>
+                    <StringItem index="6" value="Juan"/>
+                    <StringItem index="7" value="Gabriel"/>
                   </StringArray>
                 </Property>
               </Properties>
@@ -408,14 +409,15 @@
             <Component class="javax.swing.JComboBox" name="publisher">
               <Properties>
                 <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
-                  <StringArray count="7">
+                  <StringArray count="8">
                     <StringItem index="0" value="N/A"/>
                     <StringItem index="1" value="Manuel"/>
                     <StringItem index="2" value="Harol"/>
                     <StringItem index="3" value="Brayan"/>
-                    <StringItem index="4" value="Juan"/>
-                    <StringItem index="5" value="Brey"/>
-                    <StringItem index="6" value="Gaby"/>
+                    <StringItem index="4" value="Kamil"/>
+                    <StringItem index="5" value="Juan"/>
+                    <StringItem index="6" value="Brey"/>
+                    <StringItem index="7" value="Gaby"/>
                   </StringArray>
                 </Property>
               </Properties>
